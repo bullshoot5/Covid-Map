@@ -24,4 +24,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Covid-Map-App
