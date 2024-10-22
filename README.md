@@ -7,7 +7,6 @@
 - Redux
 - 100% test Covarage
 - Vite Unit Test
-- Typescript
 
 # Kütüphaneler
 
